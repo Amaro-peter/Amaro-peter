@@ -57,7 +57,7 @@ Computer Science student at **UFF** with focus on:
 
 ## Featured Projects
 
-### 🚀 TDDAgents
+### [🚀 TDDAgents](https://github.com/uffsoftwaretesting/TDDAgents)
 > Multi-agent system for automating Test-Driven Development workflows.
 
 Pipeline: **Code Generation → Automated Testing → Iterative Self-Correction**
@@ -66,21 +66,21 @@ Pipeline: **Code Generation → Automated Testing → Iterative Self-Correction*
 
 ---
 
-### 🔐 Web Cryptography — MessageApp
+### [🔐 Web Cryptography — MessageApp](https://github.com/Amaro-peter/CriptoPosQuantica)
 > Full-stack web application for end-to-end encrypted messaging with RSA and post-quantum cryptography (Crystal-Kyber ML-KEM).
 
 `Java` `Spring Boot` `React` `TypeScript` `Vite`
 
 ---
 
-### 📱 UFF Mobile Plus
+### [📱 UFF Mobile Plus](https://github.com/stiuff-mobile-devs/uffmobileplus)
 > Mobile app for UFF students featuring Digital Student ID (Carteirinha Digital) and university bus routes (BusUFF).
 
 `Flutter` `Dart` `Firebase`
 
 ---
 
-### ⛪ Evangelismo Digital — Backend
+### [⛪ Evangelismo Digital — Backend](https://github.com/Evangelismo-Digital/EvangelismoDigitalBackend)
 > Scalable REST API with Clean Architecture, job queues, Redis caching, rate limiting, and containerized infrastructure.
 
 `Node.js` `TypeScript` `Fastify` `Prisma` `PostgreSQL` `Redis` `BullMQ` `Docker`
