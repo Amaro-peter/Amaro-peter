@@ -31,34 +31,13 @@ Computer Science student at **UFF** with focus on:
 
 <div align="center">
 
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=typescript,java,python,javascript" />
-
-<br/>
-
-**Backend**
-
-<img src="https://skillicons.dev/icons?i=nestjs,spring,nodejs" />
-<img src="https://go-skill-icons.vercel.app/api/icons?i=fastify" />
-
-<br/>
-
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=react,vite" />
-
-<br/>
-
-**Mobile**
-
-<img src="https://skillicons.dev/icons?i=flutter" />
-
-<br/>
-
-**Infrastructure**
-
-<img src="https://skillicons.dev/icons?i=docker,postgres,git,linux" />
+| | |
+|:--|:--|
+| **Languages** | <img src="https://skillicons.dev/icons?i=typescript,java,python,javascript&perline=4" height="40" /> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=nestjs,spring,nodejs&perline=4" height="40" /> <img src="https://go-skill-icons.vercel.app/api/icons?i=fastify" height="40" /> |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=react,vite&perline=4" height="40" /> |
+| **Mobile** | <img src="https://skillicons.dev/icons?i=flutter&perline=4" height="40" /> |
+| **Infra** | <img src="https://skillicons.dev/icons?i=docker,postgres,git,linux&perline=4" height="40" /> |
 
 </div>
 
