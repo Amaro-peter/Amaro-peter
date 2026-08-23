@@ -20,7 +20,7 @@
 
 Computer Science student at **UFF** with focus on:
 
-- 🤖 Artificial Intelligence & LLM Agents
+- 🤖 Artificial Intelligence & Machine Learning & Generative AI & LLM Agents
 - 🏗️ Software Engineering & Backend Architecture
 - 🌐 Full Stack Development
 - 📱 Mobile Development
