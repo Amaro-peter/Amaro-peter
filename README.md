@@ -2,9 +2,9 @@
 
 # Pedro Henrique Ferreira Amaro
 
-**Computer Science @ UFF · Software Engineering · AI Agents · Full Stack · Mobile**
+**Computer Science @ UFF · Software Engineering · Artificial Intelligence · AI Agents · Full Stack · Mobile**
 
-*Desenvolvendo software, sistemas multiagentes e aplicações orientadas por IA.*
+*Desenvolvendo software, sistemas multiagentes e inteligência artificial.*
 
 <br/>
 
