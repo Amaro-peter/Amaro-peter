@@ -73,20 +73,21 @@ Pipeline: **Code Generation → Automated Testing → Iterative Self-Correction*
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Amaro-peter&show_icons=true&hide_border=true&theme=default" />
-&nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amaro-peter&layout=compact&hide_border=true&theme=default" />
+<img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Amaro-peter&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true&count_private=true" />
+<img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amaro-peter&layout=compact&langs_count=8&hide_border=true&theme=transparent" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Amaro-peter&hide_border=true" />
+<img width="100%" alt="Contribution graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Amaro-peter&theme=github-compact&hide_border=true&area=true&bg_color=00000000" />
 
 </div>
+
+<br/>
 
 <div align="center">
 
 **Open to internship opportunities**
 
-`Data Science` `AI & Machine Learning` `Full Stack` `Mobile`
+`Data Science` · `AI & Machine Learning` · `Full Stack` · `Mobile`
 
 </div>
