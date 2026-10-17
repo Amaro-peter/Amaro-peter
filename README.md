@@ -73,12 +73,12 @@ Pipeline: **Code Generation → Automated Testing → Iterative Self-Correction*
 
 <div align="center">
 
-<img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Amaro-peter&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true&count_private=true" />
-<img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amaro-peter&layout=compact&langs_count=8&hide_border=true&theme=transparent" />
+<img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Amaro-peter&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=ffffff&ring_color=ffffff" />
+<img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amaro-peter&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=ffffff" />
 
 <br/><br/>
 
-<img width="100%" alt="Contribution graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Amaro-peter&theme=github-compact&hide_border=true&area=true&bg_color=00000000" />
+<img alt="GitHub streak" src="https://streak-stats.demolab.com?user=Amaro-peter&theme=dark&hide_border=true&background=0d1117&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=cccccc&stroke=444c56" />
 
 </div>
 
